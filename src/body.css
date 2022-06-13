@@ -27,7 +27,7 @@ body[data-theme='light'] {
 }
 
 body {
-  margin: 0;
+  margin: 16px;
   font-family: var(--family);
   color: var(--colors-text);
   font-weight: var(--fw-light);
